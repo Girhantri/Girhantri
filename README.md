@@ -1,4 +1,7 @@
+
 ![Muhamad Girhant](foto/github-header-banner%20(1).png)
+
+
 💻 **Informatics student** |  **Backend & API Enthusiast** | 📱 **Mobile Dev (Kotlin - learning)**
 
 Gua suka ngulik **backend**, bikin **REST API**, dan ngerjain project yang *masuk akal secara logic*, bukan cuma jalan doang 
