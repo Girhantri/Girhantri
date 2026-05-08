@@ -4,13 +4,13 @@
 
 💻 **Informatics student** |  **Backend & API Enthusiast** | 📱 **Mobile Dev (Kotlin - learning)**
 
-Gua suka ngulik **backend**, bikin **REST API**, dan ngerjain project yang *masuk akal secara logic*, bukan cuma jalan doang 
+Gua suka ngulik **backend**, bikin **REST API**, dan ngerjain project yang *masuk akal secara logic*
 
 
 
 ##  About Me
 
-*  Mahasiswa Informatika (Semester 5)
+*  Mahasiswa Informatika (Semester 6)
 *  Fokus di **Backend Development**
 *  Sering pakai **Node.js**, pernah main **PHP**, lagi ngulik **Kotlin**
 *  Suka belajar hal teknis dari dasar
